@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Attendancetracker.iml" filepath="$PROJECT_DIR$/.idea/Attendancetracker.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AutoMailer/.idea/AutoMailer.iml" filepath="$USER_HOME$/PycharmProjects/AutoMailer/.idea/AutoMailer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/Python.iml" filepath="$PROJECT_DIR$/../../.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Automation/Python/Red_Bot_640_Amazon/.idea/Red_Bot_640_Amazon.iml" filepath="$PROJECT_DIR$/../../../../Automation/Python/Red_Bot_640_Amazon/.idea/Red_Bot_640_Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Redservbot/.idea/Redservbot.iml" filepath="$PROJECT_DIR$/../../Redservbot/.idea/Redservbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WorkTracker/.idea/WorkTracker.iml" filepath="$PROJECT_DIR$/../../WorkTracker/.idea/WorkTracker.iml" />
+    </modules>
+  </component>
+</project>
